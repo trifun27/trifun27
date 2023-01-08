@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @trifun27
-- 👀 I’m interested in web development and python
-- 🌱 I’m currently learning fullstack web development
-<!---
-trifun27/trifun27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
